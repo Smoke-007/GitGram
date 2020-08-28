@@ -38,7 +38,7 @@ def start(_bot, update):
     """/start message for bot"""
     message = update.effective_message
     message.reply_text(
-        "There is nothing here -_-.",
+        "Yes, Github Notification Are Turned On ;)",
         parse_mode="markdown")
 
 
